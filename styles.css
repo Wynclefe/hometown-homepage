@@ -8,5 +8,7 @@ body {
     background-image: url("images/header.gif");
     background-size: cover;
     padding: 200px;
+    display: flex;
+    flex-direction: column;
 
 }
