@@ -1,13 +1,12 @@
 body {
+    margin: 0;
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-
 }
 
-#header-section {
+#hero {
     background-image: url("images/header.gif");
-    width: 720px;
-    height: 343px;
-    left: 0px;
-    top: 0px;
+    background-size: cover;
+    padding: 200px;
+
 }
