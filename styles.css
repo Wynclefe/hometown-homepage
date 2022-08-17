@@ -76,8 +76,19 @@ body {
 #card-section {
     background-color: #ffe8c2;
     padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid black;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 60px;
 }
 
 #avatar {
-    width: 400px;
+    width: 200px;
 }
