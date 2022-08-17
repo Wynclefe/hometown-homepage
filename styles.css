@@ -1,9 +1,9 @@
 body {
-    margin: 0;
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
     background-color: #fefae0;
     color: #1D3557;
+    margin: 0;
     
 }
 
@@ -73,5 +73,5 @@ body {
 }
 
 #card-section {
-    background-color: whitesmoke;
+    background-color: #ffe8c2;
 }
