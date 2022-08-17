@@ -39,3 +39,11 @@ body {
 #concert {
     width: 265px;
 }
+
+.img {
+    display: flex;
+}
+
+.caption-1 {
+    display: flex;
+}
