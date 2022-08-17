@@ -46,13 +46,14 @@ body {
 
 .img {
     display: flex;
-    justify-content: space-evenly;
-    border: 0px solid;
+    justify-content: space-around;
+    
+    
 }
 
 .caption-1 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 
