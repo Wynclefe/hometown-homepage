@@ -36,6 +36,7 @@ body {
 
 #activity-section {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #park {
@@ -74,4 +75,9 @@ body {
 
 #card-section {
     background-color: #ffe8c2;
+    padding-top: 50px;
+}
+
+#avatar {
+    width: 400px;
 }
