@@ -31,3 +31,11 @@ body {
     color: #1D3557;
     margin-top: 0;
 }
+
+#park {
+    width: 300px;
+}
+
+#concert {
+    width: 265px;
+}
