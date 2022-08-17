@@ -86,9 +86,11 @@ body {
     border: 10px solid black;
     width: 400px;
     margin: 0 auto;
-    padding: 20px 60px;
+    padding: 20px 80px;
+    background-color:#f5ebe0;
 }
 
 #avatar {
     width: 200px;
+    margin-right: 20px;
 }
