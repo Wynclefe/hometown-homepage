@@ -115,3 +115,6 @@ body {
     font-weight: bold;
 }
 
+#id-description {
+    width: 250px;
+}
