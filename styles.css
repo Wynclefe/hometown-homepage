@@ -34,6 +34,10 @@ body {
     text-shadow: 0 0 10px black;
 }
 
+#activity-section {
+    margin-top: 50px;
+}
+
 #park {
     width: 300px;
 }
@@ -66,4 +70,8 @@ body {
 
 .p-margin {
     margin-top: 0;
+}
+
+#card-section {
+    background-color: whitesmoke;
 }
