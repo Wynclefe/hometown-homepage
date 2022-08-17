@@ -28,8 +28,9 @@ body {
     background-color: #f5ebe0; 
     padding: 15px 30px;
     border-radius: 10px;
-    color: #1D3557;
+    color: white;
     margin-top: 0;
+    text-shadow: 0 0 10px black;
 }
 
 #park {
