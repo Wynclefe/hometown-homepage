@@ -40,11 +40,19 @@ body {
     width: 265px;
 }
 
+.border {
+    border-radius: 50%;
+}
+
 .img {
     display: flex;
     justify-content: space-evenly;
+    border: 0px solid;
 }
 
 .caption-1 {
     display: flex;
+    justify-content: space-evenly;
 }
+
+
