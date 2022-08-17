@@ -86,11 +86,19 @@ body {
     border: 10px solid black;
     width: 400px;
     margin: 0 auto;
-    padding: 20px 80px;
+    padding: 40px 80px;
     background-color:#f5ebe0;
 }
 
 #avatar {
+    display: flex;
+    justify-content: star;
     width: 200px;
-    margin-right: 20px;
+    margin-right: 0px;
+}
+
+#card-info {
+   display: flex;
+   flex-direction: column;
+   margin-left: 50px;
 }
