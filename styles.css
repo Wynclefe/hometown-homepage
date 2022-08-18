@@ -93,7 +93,6 @@ body {
 
 #avatar {
     display: flex;
-    justify-content: star;
     width: 200px;
     margin-right: 0px;
     border-radius: 20px;
